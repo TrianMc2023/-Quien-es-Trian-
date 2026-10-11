@@ -1,4 +1,4 @@
-# -Quien-es-Trian-
+# ¿Quien es Trian?
 ¡Bienvenido a mi espacio!
 
 Soy Trian, creador de códigos y sistemas para Bot Designer For Discord (BDFD). Me dedico a desarrollar comandos, crear sistemas para bots y compartir recursos que puedan ser útiles para otros miembros de la comunidad.
